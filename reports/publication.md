@@ -18,3 +18,11 @@
 `prepare_blender_release.py` 输出全馆工程及 16 个文物交互工程。`verify_blender_release.py` 实际重开全部 17 个文件，通过对象、打包图像、受限照片和嵌入字体检查；全馆保留 14,404 个对象。编钟工程含 65 个 Strike 动作和 65 个工具演示动作，网页 GLB 为 65 个组合片段。
 
 发布前解压扫描全部 Blender 文件，未发现本机用户目录或临时目录路径。系统字体已转成标签几何，移除了字体二进制；附加素材与图像的路径统一改为相对路径。
+
+## 线上结果
+
+- 公开仓库：<https://github.com/estelledc/hubei-digital-museum>。
+- Pages：<https://estelledc.github.io/hubei-digital-museum/>。GitHub Actions 已完成构建和部署。
+- Release：<https://github.com/estelledc/hubei-digital-museum/releases/tag/v0.13.0>，已发布两个 Blender 下载工件及单独权利、署名文档。
+- 线上首页和 38 个静态 URL 返回 200；32 个模型的 Content-Length 与本地交付文件一致。实际从公网下载园区、编钟压缩模型并解压，确认 GLB 可解析且编钟包含 65 个组合片段。详见 `pages-http.json`。
+- 自动化与 HTTP 结果不代表浏览器 GPU 外观或用户视觉验收。

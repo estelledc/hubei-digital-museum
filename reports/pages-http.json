@@ -1,0 +1,238 @@
+{
+  "url": "https://estelledc.github.io/hubei-digital-museum/",
+  "checks": [
+    {
+      "path": "favicon.svg",
+      "status": 200,
+      "bytes": "712",
+      "encoding": null
+    },
+    {
+      "path": "assets/index-DJOCYYW2.js",
+      "status": 200,
+      "bytes": "340980",
+      "encoding": null
+    },
+    {
+      "path": "assets/index-BJnIPIj8.css",
+      "status": 200,
+      "bytes": "186993",
+      "encoding": null
+    },
+    {
+      "path": "models/museum-architecture.glb.gz",
+      "status": 200,
+      "bytes": "45676268",
+      "encoding": null
+    },
+    {
+      "path": "models/public/arrival.glb.gz",
+      "status": 200,
+      "bytes": "6238132",
+      "encoding": null
+    },
+    {
+      "path": "models/public/connection.glb.gz",
+      "status": 200,
+      "bytes": "1239410",
+      "encoding": null
+    },
+    {
+      "path": "models/public/atrium.glb.gz",
+      "status": 200,
+      "bytes": "6238132",
+      "encoding": null
+    },
+    {
+      "path": "models/public/theatre.glb.gz",
+      "status": 200,
+      "bytes": "28931810",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/manuscript-xiong-interactive.glb.gz",
+      "status": 200,
+      "bytes": "138099",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/chimes-interactive.glb.gz",
+      "status": 200,
+      "bytes": "14295222",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/sword-interactive.glb.gz",
+      "status": 200,
+      "bytes": "1603292",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/vase-interactive.glb.gz",
+      "status": 200,
+      "bytes": "1503190",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/gold-liang-interactive.glb.gz",
+      "status": 200,
+      "bytes": "1785745",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/medal-lizuodong-interactive.glb.gz",
+      "status": 200,
+      "bytes": "241954",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/jade-shijiahe-interactive.glb.gz",
+      "status": 200,
+      "bytes": "1744806",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/carving-wudang-interactive.glb.gz",
+      "status": 200,
+      "bytes": "1925603",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/drum-interactive.glb.gz",
+      "status": 200,
+      "bytes": "954415",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/ding-jian-interactive.glb.gz",
+      "status": 200,
+      "bytes": "4546428",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/drum-chongyang-interactive.glb.gz",
+      "status": 200,
+      "bytes": "508303",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/pottery-bell-interactive.glb.gz",
+      "status": 200,
+      "bytes": "399447",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/office-dong-interactive.glb.gz",
+      "status": 200,
+      "bytes": "746596",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/bamboo-interactive.glb.gz",
+      "status": 200,
+      "bytes": "406278",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/bells-interactive.glb.gz",
+      "status": 200,
+      "bytes": "26828331",
+      "encoding": null
+    },
+    {
+      "path": "models/interactive/zun-interactive.glb.gz",
+      "status": 200,
+      "bytes": "62722484",
+      "encoding": null
+    },
+    {
+      "path": "models/galleries/sword-hall.glb.gz",
+      "status": 200,
+      "bytes": "4379073",
+      "encoding": null
+    },
+    {
+      "path": "models/galleries/craft.glb.gz",
+      "status": 200,
+      "bytes": "4077498",
+      "encoding": null
+    },
+    {
+      "path": "models/galleries/liang.glb.gz",
+      "status": 200,
+      "bytes": "4283179",
+      "encoding": null
+    },
+    {
+      "path": "models/galleries/ceramics.glb.gz",
+      "status": 200,
+      "bytes": "4513068",
+      "encoding": null
+    },
+    {
+      "path": "models/galleries/chu.glb.gz",
+      "status": 200,
+      "bytes": "4243980",
+      "encoding": null
+    },
+    {
+      "path": "models/galleries/zeng.glb.gz",
+      "status": 200,
+      "bytes": "66734373",
+      "encoding": null
+    },
+    {
+      "path": "models/galleries/family.glb.gz",
+      "status": 200,
+      "bytes": "7395242",
+      "encoding": null
+    },
+    {
+      "path": "models/galleries/music.glb.gz",
+      "status": 200,
+      "bytes": "3311296",
+      "encoding": null
+    },
+    {
+      "path": "models/galleries/ancient.glb.gz",
+      "status": 200,
+      "bytes": "4922915",
+      "encoding": null
+    },
+    {
+      "path": "models/galleries/people.glb.gz",
+      "status": 200,
+      "bytes": "3411463",
+      "encoding": null
+    },
+    {
+      "path": "models/galleries/modern.glb.gz",
+      "status": 200,
+      "bytes": "3705069",
+      "encoding": null
+    },
+    {
+      "path": "research/README.md",
+      "status": 200,
+      "bytes": "1472",
+      "encoding": null
+    },
+    {
+      "path": "research/fidelity-credits.md",
+      "status": 200,
+      "bytes": "2505",
+      "encoding": null
+    },
+    {
+      "path": "renders/public-12/atrium.jpg",
+      "status": 200,
+      "bytes": "180602",
+      "encoding": null
+    }
+  ],
+  "download_decode_checked": [
+    "campus",
+    "bells"
+  ],
+  "browser_visual_qa": false
+}
