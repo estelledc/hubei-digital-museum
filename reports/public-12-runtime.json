@@ -1,0 +1,265 @@
+{
+  "results": [
+    {
+      "model": "museum-architecture",
+      "lights": 8,
+      "roofs": 2,
+      "meshes": 140,
+      "bounds": [
+        291,
+        45.6800012588501,
+        360
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": [
+        {
+          "label": "园区总览",
+          "nearestSurface": 316.15048170086607
+        },
+        {
+          "label": "南广场",
+          "nearestSurface": 84.52641371143102
+        },
+        {
+          "label": "北馆庭院",
+          "nearestSurface": 72.5268948755599
+        }
+      ]
+    },
+    {
+      "model": "public/arrival",
+      "lights": 8,
+      "roofs": 2,
+      "meshes": 64,
+      "bounds": [
+        198,
+        35.67499931156635,
+        166.0449981689453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": [
+        {
+          "label": "入口全景",
+          "nearestSurface": 59.799889151510655
+        },
+        {
+          "label": "服务台近看",
+          "nearestSurface": 20.61417380574707
+        },
+        {
+          "label": "下层大厅",
+          "nearestSurface": 56.89392635794021
+        }
+      ]
+    },
+    {
+      "model": "public/atrium",
+      "lights": 8,
+      "roofs": 2,
+      "meshes": 64,
+      "bounds": [
+        198,
+        35.67499931156635,
+        166.0449981689453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": [
+        {
+          "label": "树形中庭",
+          "nearestSurface": 59.89619641025434
+        },
+        {
+          "label": "旋梯近看",
+          "nearestSurface": 32.211444363783926
+        },
+        {
+          "label": "临窗环廊",
+          "nearestSurface": 57.543139918326986
+        }
+      ]
+    },
+    {
+      "model": "public/connection",
+      "lights": 6,
+      "roofs": 1,
+      "meshes": 32,
+      "bounds": [
+        71.64249038696289,
+        24.279824256896973,
+        70
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": [
+        {
+          "label": "通道全景",
+          "nearestSurface": 45.07551936591778
+        },
+        {
+          "label": "北馆端",
+          "nearestSurface": 8.222684427997361
+        },
+        {
+          "label": "南馆端",
+          "nearestSurface": 41.0472080571389
+        }
+      ]
+    },
+    {
+      "model": "public/theatre",
+      "lights": 6,
+      "roofs": 1,
+      "meshes": 35,
+      "bounds": [
+        23.299999237060547,
+        8.600000388920307,
+        27
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": []
+    },
+    {
+      "model": "galleries/zeng",
+      "lights": 8,
+      "roofs": 1,
+      "meshes": 88,
+      "bounds": [
+        30.200000762939453,
+        5.690000206232071,
+        28.200000762939453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": []
+    },
+    {
+      "model": "galleries/sword-hall",
+      "lights": 8,
+      "roofs": 1,
+      "meshes": 43,
+      "bounds": [
+        14.199999809265137,
+        5.690000206232071,
+        16.200000762939453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": []
+    },
+    {
+      "model": "galleries/family",
+      "lights": 8,
+      "roofs": 1,
+      "meshes": 41,
+      "bounds": [
+        14.199999809265137,
+        5.690000206232071,
+        16.200000762939453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": []
+    },
+    {
+      "model": "galleries/chu",
+      "lights": 8,
+      "roofs": 1,
+      "meshes": 55,
+      "bounds": [
+        20.200000762939453,
+        5.690000206232071,
+        20.200000762939453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": []
+    },
+    {
+      "model": "galleries/liang",
+      "lights": 8,
+      "roofs": 1,
+      "meshes": 40,
+      "bounds": [
+        18,
+        5.999999910593033,
+        16.200000762939453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": []
+    },
+    {
+      "model": "galleries/music",
+      "lights": 8,
+      "roofs": 1,
+      "meshes": 79,
+      "bounds": [
+        14.199999809265137,
+        5.690000206232071,
+        16.200000762939453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": []
+    },
+    {
+      "model": "galleries/craft",
+      "lights": 8,
+      "roofs": 1,
+      "meshes": 81,
+      "bounds": [
+        14.199999809265137,
+        5.690000206232071,
+        16.200000762939453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": []
+    },
+    {
+      "model": "galleries/ancient",
+      "lights": 8,
+      "roofs": 1,
+      "meshes": 102,
+      "bounds": [
+        18.200000762939453,
+        5.690000206232071,
+        20.700000762939453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": []
+    },
+    {
+      "model": "galleries/ceramics",
+      "lights": 8,
+      "roofs": 1,
+      "meshes": 39,
+      "bounds": [
+        14.199999809265137,
+        5.690000206232071,
+        16.200000762939453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": []
+    },
+    {
+      "model": "galleries/modern",
+      "lights": 8,
+      "roofs": 1,
+      "meshes": 49,
+      "bounds": [
+        14.199999809265137,
+        5.690000206232071,
+        16.200000762939453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": []
+    },
+    {
+      "model": "galleries/people",
+      "lights": 8,
+      "roofs": 1,
+      "meshes": 139,
+      "bounds": [
+        14.199999809265137,
+        5.690000206232071,
+        18.200000762939453
+      ],
+      "cutaway_and_restore": "passed",
+      "publicSightLines": []
+    }
+  ],
+  "scope": "Real Three.js GLB parsing, bounds, material-group cutaway and calibrated light metadata; textures stubbed, no browser GPU or DOM QA"
+}

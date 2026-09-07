@@ -1,0 +1,13 @@
+{
+  "referenceWeight": 0.0666666667,
+  "contactSeconds": 0.1666666667,
+  "recoverSeconds": 0.6,
+  "mallet": {
+    "headLength": 0.16,
+    "headRadius": 0.026,
+    "handleLength": 0.34,
+    "handleRadius": 0.011
+  },
+  "rod": { "length": 2.1, "radius": 0.033 },
+  "note": "Tool dimensions and timing are demonstration estimates. Reference motion is visually reduced, not measured. Long rod category follows published descriptions of two-metre-plus rods."
+}

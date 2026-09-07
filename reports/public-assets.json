@@ -1,0 +1,271 @@
+[
+  {
+    "file": "web/public/models/museum-architecture.glb.gz",
+    "original_bytes": 143647500,
+    "public_glb_bytes": 143644300,
+    "download_bytes": 45676268,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/public/arrival.glb.gz",
+    "original_bytes": 27634360,
+    "public_glb_bytes": 27632888,
+    "download_bytes": 6238132,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/public/atrium.glb.gz",
+    "original_bytes": 27634360,
+    "public_glb_bytes": 27632888,
+    "download_bytes": 6238132,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/public/connection.glb.gz",
+    "original_bytes": 3535076,
+    "public_glb_bytes": 3534424,
+    "download_bytes": 1239410,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/public/theatre.glb.gz",
+    "original_bytes": 58818960,
+    "public_glb_bytes": 58818128,
+    "download_bytes": 28931810,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/galleries/ancient.glb.gz",
+    "original_bytes": 14866928,
+    "public_glb_bytes": 14455080,
+    "download_bytes": 4922915,
+    "replaced_photographs": [
+      "ancient-space",
+      "chongyang-drum",
+      "ancient-shijiahe-jade"
+    ]
+  },
+  {
+    "file": "web/public/models/galleries/ceramics.glb.gz",
+    "original_bytes": 13715568,
+    "public_glb_bytes": 13392128,
+    "download_bytes": 4513068,
+    "replaced_photographs": [
+      "ceramics-space"
+    ]
+  },
+  {
+    "file": "web/public/models/galleries/chu.glb.gz",
+    "original_bytes": 14382360,
+    "public_glb_bytes": 14235432,
+    "download_bytes": 4243980,
+    "replaced_photographs": [
+      "chu-space",
+      "bamboo-reference",
+      "虎鼓目录_排除白色背景"
+    ]
+  },
+  {
+    "file": "web/public/models/galleries/craft.glb.gz",
+    "original_bytes": 12137672,
+    "public_glb_bytes": 11487396,
+    "download_bytes": 4077498,
+    "replaced_photographs": [
+      "craft-space",
+      "craft-wudang-chaosheng"
+    ]
+  },
+  {
+    "file": "web/public/models/galleries/family.glb.gz",
+    "original_bytes": 15815096,
+    "public_glb_bytes": 15753128,
+    "download_bytes": 7395242,
+    "replaced_photographs": [
+      "zeng-space-1"
+    ]
+  },
+  {
+    "file": "web/public/models/galleries/liang.glb.gz",
+    "original_bytes": 12358040,
+    "public_glb_bytes": 12199364,
+    "download_bytes": 4283179,
+    "replaced_photographs": [
+      "liangzhuang-0",
+      "liang-gold-ingot"
+    ]
+  },
+  {
+    "file": "web/public/models/galleries/modern.glb.gz",
+    "original_bytes": 14296864,
+    "public_glb_bytes": 13251540,
+    "download_bytes": 3705069,
+    "replaced_photographs": [
+      "modern-space",
+      "modern-lizuodong-medal",
+      "modern-xiongbingkun-manuscript"
+    ]
+  },
+  {
+    "file": "web/public/models/galleries/music.glb.gz",
+    "original_bytes": 12278316,
+    "public_glb_bytes": 12200712,
+    "download_bytes": 3311296,
+    "replaced_photographs": [
+      "tianlai-space",
+      "tianlai-taoling-vr"
+    ]
+  },
+  {
+    "file": "web/public/models/galleries/people.glb.gz",
+    "original_bytes": 13401300,
+    "public_glb_bytes": 13011412,
+    "download_bytes": 3411463,
+    "replaced_photographs": [
+      "people-space"
+    ]
+  },
+  {
+    "file": "web/public/models/galleries/sword-hall.glb.gz",
+    "original_bytes": 12761920,
+    "public_glb_bytes": 12760684,
+    "download_bytes": 4379073,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/galleries/zeng.glb.gz",
+    "original_bytes": 111003568,
+    "public_glb_bytes": 111001612,
+    "download_bytes": 66734373,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/interactive/bamboo-interactive.glb.gz",
+    "original_bytes": 476000,
+    "public_glb_bytes": 454880,
+    "download_bytes": 406278,
+    "replaced_photographs": [
+      "bamboo-reference"
+    ]
+  },
+  {
+    "file": "web/public/models/interactive/bells-interactive.glb.gz",
+    "original_bytes": 38181096,
+    "public_glb_bytes": 38179368,
+    "download_bytes": 26828331,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/interactive/carving-wudang-interactive.glb.gz",
+    "original_bytes": 3122436,
+    "public_glb_bytes": 2774848,
+    "download_bytes": 1925603,
+    "replaced_photographs": [
+      "craft-wudang-chaosheng"
+    ]
+  },
+  {
+    "file": "web/public/models/interactive/chimes-interactive.glb.gz",
+    "original_bytes": 19172504,
+    "public_glb_bytes": 19168436,
+    "download_bytes": 14295222,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/interactive/ding-jian-interactive.glb.gz",
+    "original_bytes": 4849436,
+    "public_glb_bytes": 4849540,
+    "download_bytes": 4546428,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/interactive/drum-chongyang-interactive.glb.gz",
+    "original_bytes": 1076928,
+    "public_glb_bytes": 1039296,
+    "download_bytes": 508303,
+    "replaced_photographs": [
+      "chongyang-drum"
+    ]
+  },
+  {
+    "file": "web/public/models/interactive/drum-interactive.glb.gz",
+    "original_bytes": 1899964,
+    "public_glb_bytes": 1873520,
+    "download_bytes": 954415,
+    "replaced_photographs": [
+      "虎鼓目录_排除白色背景"
+    ]
+  },
+  {
+    "file": "web/public/models/interactive/gold-liang-interactive.glb.gz",
+    "original_bytes": 2573252,
+    "public_glb_bytes": 2512812,
+    "download_bytes": 1785745,
+    "replaced_photographs": [
+      "liang-gold-ingot"
+    ]
+  },
+  {
+    "file": "web/public/models/interactive/jade-shijiahe-interactive.glb.gz",
+    "original_bytes": 2503512,
+    "public_glb_bytes": 2463912,
+    "download_bytes": 1744806,
+    "replaced_photographs": [
+      "ancient-shijiahe-jade"
+    ]
+  },
+  {
+    "file": "web/public/models/interactive/manuscript-xiong-interactive.glb.gz",
+    "original_bytes": 864672,
+    "public_glb_bytes": 330416,
+    "download_bytes": 138099,
+    "replaced_photographs": [
+      "modern-xiongbingkun-manuscript"
+    ]
+  },
+  {
+    "file": "web/public/models/interactive/medal-lizuodong-interactive.glb.gz",
+    "original_bytes": 679368,
+    "public_glb_bytes": 466200,
+    "download_bytes": 241954,
+    "replaced_photographs": [
+      "modern-lizuodong-medal"
+    ]
+  },
+  {
+    "file": "web/public/models/interactive/office-dong-interactive.glb.gz",
+    "original_bytes": 2330536,
+    "public_glb_bytes": 2330640,
+    "download_bytes": 746596,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/interactive/pottery-bell-interactive.glb.gz",
+    "original_bytes": 537924,
+    "public_glb_bytes": 495204,
+    "download_bytes": 399447,
+    "replaced_photographs": [
+      "tianlai-taoling-vr"
+    ]
+  },
+  {
+    "file": "web/public/models/interactive/sword-interactive.glb.gz",
+    "original_bytes": 2023460,
+    "public_glb_bytes": 2023564,
+    "download_bytes": 1603292,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/interactive/vase-interactive.glb.gz",
+    "original_bytes": 2443200,
+    "public_glb_bytes": 2442828,
+    "download_bytes": 1503190,
+    "replaced_photographs": []
+  },
+  {
+    "file": "web/public/models/interactive/zun-interactive.glb.gz",
+    "original_bytes": 105505248,
+    "public_glb_bytes": 105505348,
+    "download_bytes": 62722484,
+    "replaced_photographs": []
+  }
+]

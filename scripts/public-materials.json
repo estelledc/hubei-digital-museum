@@ -1,0 +1,92 @@
+{
+  "ancient-shijiahe-jade": [
+    0.65,
+    0.63,
+    0.46
+  ],
+  "bamboo-reference": [
+    0.43,
+    0.28,
+    0.12
+  ],
+  "chongyang-drum": [
+    0.3,
+    0.25,
+    0.17
+  ],
+  "craft-wudang-chaosheng": [
+    0.4,
+    0.42,
+    0.28
+  ],
+  "liang-gold-ingot": [
+    0.7,
+    0.44,
+    0.12
+  ],
+  "modern-lizuodong-medal": [
+    0.38,
+    0.39,
+    0.36
+  ],
+  "modern-xiongbingkun-manuscript": [
+    0.64,
+    0.56,
+    0.38
+  ],
+  "tianlai-taoling-vr": [
+    0.49,
+    0.26,
+    0.12
+  ],
+  "虎鼓目录_排除白色背景": [
+    0.11,
+    0.045,
+    0.023
+  ],
+  "ancient-space": [
+    0.21,
+    0.23,
+    0.22
+  ],
+  "ceramics-space": [
+    0.21,
+    0.23,
+    0.22
+  ],
+  "chu-space": [
+    0.21,
+    0.23,
+    0.22
+  ],
+  "craft-space": [
+    0.21,
+    0.23,
+    0.22
+  ],
+  "liangzhuang-0": [
+    0.21,
+    0.23,
+    0.22
+  ],
+  "modern-space": [
+    0.21,
+    0.23,
+    0.22
+  ],
+  "people-space": [
+    0.21,
+    0.23,
+    0.22
+  ],
+  "tianlai-space": [
+    0.21,
+    0.23,
+    0.22
+  ],
+  "zeng-space-1": [
+    0.21,
+    0.23,
+    0.22
+  ]
+}

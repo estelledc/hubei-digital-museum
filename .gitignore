@@ -1,0 +1,15 @@
+node_modules/
+web/dist/
+web/out/
+web/.next/
+web/.vinext/
+web/.wrangler/
+*.tsbuildinfo
+__pycache__/
+*.pyc
+.DS_Store
+.env*
+*.pem
+.release/
+reports/*.log
+.pages/

@@ -1,0 +1,111 @@
+{
+  "coverage": 15,
+  "results": [
+    {
+      "id": "chimes",
+      "mode": "strike",
+      "parts": 32,
+      "detail_views": 0,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "drum-chongyang",
+      "mode": "strike",
+      "parts": 1,
+      "detail_views": 0,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "sword",
+      "mode": "explode",
+      "parts": 4,
+      "detail_views": 5,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "zun",
+      "mode": "explode",
+      "parts": 4,
+      "detail_views": 8,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "drum",
+      "mode": "explode",
+      "parts": 5,
+      "detail_views": 9,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "bamboo",
+      "mode": "explode",
+      "parts": 5,
+      "detail_views": 5,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "ding-jian",
+      "mode": "explode",
+      "parts": 4,
+      "detail_views": 4,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "carving-wudang",
+      "mode": "explode",
+      "parts": 3,
+      "detail_views": 3,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "manuscript-xiong",
+      "mode": "explode",
+      "parts": 3,
+      "detail_views": 3,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "office-dong",
+      "mode": "explode",
+      "parts": 6,
+      "detail_views": 7,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "vase",
+      "mode": "inspect",
+      "parts": 5,
+      "detail_views": 0,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "pottery-bell",
+      "mode": "inspect",
+      "parts": 4,
+      "detail_views": 0,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "gold-liang",
+      "mode": "inspect",
+      "parts": 3,
+      "detail_views": 0,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "jade-shijiahe",
+      "mode": "inspect",
+      "parts": 4,
+      "detail_views": 0,
+      "real_glb_behavior": "passed"
+    },
+    {
+      "id": "medal-lizuodong",
+      "mode": "inspect",
+      "parts": 4,
+      "detail_views": 0,
+      "real_glb_behavior": "passed"
+    }
+  ],
+  "scope": "Real GLB geometry, extras, animation clips and Three.js runtime; no browser DOM, GPU texture rendering or touch UI acceptance."
+}

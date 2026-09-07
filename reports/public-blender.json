@@ -1,0 +1,175 @@
+[
+  {
+    "file": "hubei-museum-public.blend",
+    "objects": 14404,
+    "replaced_images": [
+      "ancient-shijiahe-jade",
+      "ancient-space",
+      "bamboo-reference",
+      "ceramics-space",
+      "chongyang-drum",
+      "chu-space",
+      "craft-space",
+      "craft-wudang-chaosheng",
+      "liang-gold-ingot",
+      "liangzhuang-0",
+      "modern-lizuodong-medal",
+      "modern-space",
+      "modern-xiongbingkun-manuscript",
+      "people-space",
+      "tianlai-space",
+      "tianlai-taoling-vr",
+      "zeng-space-1",
+      "虎鼓目录_排除白色背景"
+    ],
+    "bytes": 573373372,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "bells-interactive.blend",
+    "objects": 326,
+    "replaced_images": [],
+    "bytes": 76186268,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "chimes-interactive.blend",
+    "objects": 105,
+    "replaced_images": [],
+    "bytes": 48706224,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "zun-interactive.blend",
+    "objects": 29,
+    "replaced_images": [],
+    "bytes": 71550930,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "sword-interactive.blend",
+    "objects": 23,
+    "replaced_images": [],
+    "bytes": 2916392,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "drum-interactive.blend",
+    "objects": 33,
+    "replaced_images": [
+      "虎鼓目录_排除白色背景"
+    ],
+    "bytes": 2229278,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "bamboo-interactive.blend",
+    "objects": 25,
+    "replaced_images": [
+      "bamboo-reference"
+    ],
+    "bytes": 1151960,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "vase-interactive.blend",
+    "objects": 11,
+    "replaced_images": [],
+    "bytes": 11914181,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "ding-jian-interactive.blend",
+    "objects": 21,
+    "replaced_images": [],
+    "bytes": 5963903,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "gold-liang-interactive.blend",
+    "objects": 8,
+    "replaced_images": [
+      "liang-gold-ingot"
+    ],
+    "bytes": 2798981,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "pottery-bell-interactive.blend",
+    "objects": 10,
+    "replaced_images": [
+      "tianlai-taoling-vr"
+    ],
+    "bytes": 1194760,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "carving-wudang-interactive.blend",
+    "objects": 17,
+    "replaced_images": [
+      "craft-wudang-chaosheng"
+    ],
+    "bytes": 4366394,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "drum-chongyang-interactive.blend",
+    "objects": 8,
+    "replaced_images": [
+      "chongyang-drum"
+    ],
+    "bytes": 1600799,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "jade-shijiahe-interactive.blend",
+    "objects": 9,
+    "replaced_images": [
+      "ancient-shijiahe-jade"
+    ],
+    "bytes": 2796207,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "manuscript-xiong-interactive.blend",
+    "objects": 17,
+    "replaced_images": [
+      "modern-xiongbingkun-manuscript"
+    ],
+    "bytes": 317384,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "medal-lizuodong-interactive.blend",
+    "objects": 9,
+    "replaced_images": [
+      "modern-lizuodong-medal"
+    ],
+    "bytes": 1215629,
+    "fonts": 0,
+    "text_blocks": 0
+  },
+  {
+    "file": "office-dong-interactive.blend",
+    "objects": 31,
+    "replaced_images": [],
+    "bytes": 3027384,
+    "fonts": 0,
+    "text_blocks": 0
+  }
+]
