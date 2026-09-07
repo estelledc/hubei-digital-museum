@@ -1,0 +1,138 @@
+[
+  {
+    "file": "bamboo-interactive.blend",
+    "objects": 25,
+    "actions": 5,
+    "images": 4,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "bells-interactive.blend",
+    "objects": 326,
+    "actions": 130,
+    "images": 19,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "carving-wudang-interactive.blend",
+    "objects": 17,
+    "actions": 3,
+    "images": 10,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "chimes-interactive.blend",
+    "objects": 105,
+    "actions": 64,
+    "images": 29,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "ding-jian-interactive.blend",
+    "objects": 21,
+    "actions": 4,
+    "images": 7,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "drum-chongyang-interactive.blend",
+    "objects": 8,
+    "actions": 1,
+    "images": 4,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "drum-interactive.blend",
+    "objects": 33,
+    "actions": 5,
+    "images": 7,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "gold-liang-interactive.blend",
+    "objects": 8,
+    "actions": 1,
+    "images": 4,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "hubei-museum-public.blend",
+    "objects": 14404,
+    "actions": 0,
+    "images": 369,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "jade-shijiahe-interactive.blend",
+    "objects": 9,
+    "actions": 1,
+    "images": 4,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "manuscript-xiong-interactive.blend",
+    "objects": 17,
+    "actions": 3,
+    "images": 1,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "medal-lizuodong-interactive.blend",
+    "objects": 9,
+    "actions": 1,
+    "images": 4,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "office-dong-interactive.blend",
+    "objects": 31,
+    "actions": 6,
+    "images": 9,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "pottery-bell-interactive.blend",
+    "objects": 10,
+    "actions": 1,
+    "images": 4,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "sword-interactive.blend",
+    "objects": 23,
+    "actions": 4,
+    "images": 7,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "vase-interactive.blend",
+    "objects": 11,
+    "actions": 1,
+    "images": 1,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  },
+  {
+    "file": "zun-interactive.blend",
+    "objects": 29,
+    "actions": 4,
+    "images": 6,
+    "restricted_images": 0,
+    "embedded_system_fonts": 0
+  }
+]
