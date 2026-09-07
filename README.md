@@ -2,6 +2,8 @@
 
 [在线参观](https://estelledc.github.io/hubei-digital-museum/) · [Blender 工程下载](https://github.com/estelledc/hubei-digital-museum/releases/latest) · [来源与边界](research/README.md)
 
+[文物覆盖盘点与后续计划](research/digitization-roadmap.md)：整理 32 项本项目尚未建模的候选、现有 16 组模型的精度欠缺，以及分批制作和验收安排。此轮完成研究收尾，后续建模未启动；不将项目缺项等同于馆方尚未数字化。
+
 一个以现馆公开资料为依据的**非官方数字研究项目**。可以浏览园区与常设展区、近看代表文物，体验编钟击奏、器物结构展开和细节导览。并非馆方网站、测绘模型或文物扫描成果。
 
 ![南馆中庭的 Blender 重建渲染](web/public/renders/public-12/atrium-stairs.jpg)
